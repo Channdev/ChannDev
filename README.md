@@ -113,11 +113,9 @@ I'm passionate about writing clean, maintainable code, following best practices,
 
 <div align="center">
   
-![Chann Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=channdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=channdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=channdev&theme=radical&hide_border=true&background=0D1117)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Channdev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Channdev&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Channdev&layout=compact&theme=radical)
 
 </div>
 
